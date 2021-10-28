@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "512102623740",
+    "project_id": "yummytummy-96454",
+    "storage_bucket": "yummytummy-96454.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512102623740:android:872317d0ae3f6acf1a6a79",
+        "android_client_info": {
+          "package_name": "com.manju23reddy.yummytummy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "512102623740-jkmhb5jmga3u1vdhs6hb7lqsf3mr7hv0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.manju23reddy.yummytummy",
+            "certificate_hash": "115b96c293b7f212f9d9be2ea49aa9b86548211e"
+          }
+        },
+        {
+          "client_id": "512102623740-n3nkupqcggnl9h4pu9b8s163g94aq6g0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDydboWcWP_oeE8wS66o-zqk1Xfm5kJnfk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "512102623740-n3nkupqcggnl9h4pu9b8s163g94aq6g0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
