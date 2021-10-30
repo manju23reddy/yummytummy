@@ -1,4 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <layer-list xmlns:android="http://schemas.android.com/apk/res/android">
 
+    <item
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:drawable="@color/black"/>
+    <item
+        android:gravity="center">
+        <shape android:shape="oval">
+            <size android:width="500px"
+                android:height="500px"/>
+            <gradient
+                android:gradientRadius="200"
+                android:type="radial"
+                android:centerColor="#DDBB55"
+                android:endColor="#194239"
+                android:startColor="#D6A309"/>
+        </shape>
+    </item>
 </layer-list>
